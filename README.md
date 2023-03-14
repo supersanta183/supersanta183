@@ -1,5 +1,5 @@
 ![](https://github.com/supersanta183/supersanta183/blob/main/banner.png)
-$$\text{**Live in Denmark**}$$    
+<p style="text-align: center;">**Live in Denmark**</p>      
 **Computer Science student**
     
 <p align="center">
